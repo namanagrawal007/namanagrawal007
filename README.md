@@ -6,17 +6,14 @@
 
 
 
-- 🔭 I’m currently working on **AI Chatbot Development**
+🌱 I’m currently learning MERN Stack, ML, DSA.
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript Basics, Front-end and Back-end Development, Database Integration, Real-world Projects**
+👨‍💻 All of my projects are available at https://github.com/namanagrawal007
 
-- 👯 I’m looking to collaborate on **Open Source Web Development Projects**
+📫 How to reach me: namanagrawal190503@gmail.com
 
-- 💬 Ask me about **Front-end Development, JavaScript Frameworks**
+⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-- 📫 How to reach me **namanagrawal190503@gmail.com**
-
-- ⚡ Fun fact **I can solve a Rubik's cube in under a minute!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
